@@ -1,0 +1,1066 @@
+{
+  "version": { "major": 1, "minor": 6 },
+  "type": "character",
+  "name": "Zao Gavi",
+  "description": "Zao was raised in the underground of Daimalko with the rest of his enclave, the Gavi people.  When Zao was young his enclave's leader returned from a long journey with new powers granted to her by a mysterious orb.  The Orb was said to be gifted by the old goddess Duellona.  Zao's community had always been worshipers of Duellona, even though many others no longer believed, and praised her name when they received the new gift. The community leader told the enclave that this new orb have given her valuable insight into the locations and mindset of the Colossi creatures that had driven their people underground 150 years ago. Together the enclave decided to return to the surface and regain some of their lost freedoms. Zao had never seen the sky before but had heard many stories from the elders and was excited to return to the surface.  He immediately fell in love with the open air, and his dreams of seeing the galaxy were born. \n\nA naturally agrarian society, the Damai people of Gavi set up a farming community quickly and were able to establish a loving and familial home for themselves.  Though they could grow most things themselves, there were several crucial supplies that could only be harvested from the planet outside of their community.  Pilots were recruited to fly dangerous missions carrying miners and other workers back and forth to get these necessary goods. Zao volunteered as soon as he was old enough and was given only a basic level of training, mostly being shown how to land, take off, and keep the ship in the air, before he began flying these routes.  He has acquired most of his skills himself through trial and error on the job.  Zao also became adept at reading the land and navigating by terrestrial landmarks. He even helped draw a navigational map of the area to and from the mines to help others out. \n\nTheir leader spent most of her time split between protecting the community and training her new protégé for the day she would be ready to step down.  It was on one of these training days that the Colossi attacked. Distracted by her task of training, their leader was unable to sense the attack until it was too late. Most of the communities defenses were damaged and many of the fighting men were killed. Zao was away on a flight when the attack happened and returned to find most of his community gone, only the women and children surviving hidden away. Tired of hiding underground, and not able to rebuild with so few able bodied people left, the remainder of the Gavi enclave decided to leave Daimalko and start fresh somewhere new. \n\nZao, along with other pilots volunteered to take as many people as he could to Absalom Station, where they hoped to start a new community. Once they arrived, Zao returned his ship to the community and went his separate ways. He had lost too many friends in the attack to feel any real peace or connection to those that were left.  This is where Zao's new adventure began.\n\nWhile sitting in a bar one night, lamenting about how he wished he just had a ship then he could fly away from here, Zao met Niso. He was a skittermander who happened to have a ship. It wasn't until much later that Zao found out the ship had never actually belonged to Niso. But oh well, it was theirs now. \n\nFor months Zao and Niso flew around the galaxy picking up odd jobs here and there. they took on a few crew members and had a pretty stable business going. Zao had a strict moral code as a captain. They never took jobs that were intended to hurt others, or that appeared to be more violent than advertised.  The crew was content and they made enough money from mostly smuggling, petty theft, and the occasional bounty job.   Zao spent all his spending money on improvements to the ship and was very proud of what he was doing with his new found freedom. That was until one night when Zao came back to the ship to go to sleep, only to find the ship gone. Zao asked Niso what had happened, assuming they had been robbed or maybe the original owners had come back for it.  But no, Niso had simply given the ship away.  Much like how he had given the ship to Zao when he was in need and wanting one, Niso had come across someone else who was in need and wanting a ship of their own. So like any helpful skittermander, he gave it to them. \n\nZao was furious with Niso, but more mad at himself. He should have known better than to leave Niso with the ship unsupervised.  So after paying the crew their last wages and explaining what happened, Zao parted ways from Niso and went off to find a new ship to start over on, after all he was a pretty decent pilot. \n ",
+  "gender": "Male",
+  "homeworld": "Daimalko",
+  "deity": "Duellona",
+  "alignment": "Neutral Good",
+  "quickNotes": "",
+  "languages": "Common, , , Vesk, Daimalk\n",
+  "campaignNotes": "",
+  "situationalBonuses": [
+    {
+      "bonus": "+4 bonus to your Armor Class against attacks of opportunity you provoke by leaving a threatened square.",
+      "source": "Mobility"
+    },
+    {
+      "bonus": "Reduce the DC of Culture checks to recall knowledge about starship and vehicle models and parts as well as famous hotshot pilots by 5.",
+      "source": "Theme Knowledge (Ace Pilot)"
+    }
+  ],
+  "conditions": {
+    "asleep": { "active": false, "notes": "" },
+    "bleeding": { "active": false, "notes": "" },
+    "blinded": { "active": false, "notes": "" },
+    "broken": { "active": false, "notes": "" },
+    "burning": { "active": false, "notes": "" },
+    "confused": { "active": false, "notes": "" },
+    "cowering": { "active": false, "notes": "" },
+    "dazed": { "active": false, "notes": "" },
+    "dazzled": { "active": false, "notes": "" },
+    "dead": { "active": false, "notes": "" },
+    "deafened": { "active": false, "notes": "" },
+    "dying": { "active": false, "notes": "" },
+    "encumbered": { "active": false, "notes": "" },
+    "entangled": { "active": false, "notes": "" },
+    "exhausted": { "active": false, "notes": "" },
+    "fascinated": { "active": false, "notes": "" },
+    "fatigued": { "active": false, "notes": "" },
+    "flatFooted": { "active": false, "notes": "" },
+    "frightened": { "active": false, "notes": "" },
+    "grappled": { "active": false, "notes": "" },
+    "helpless": { "active": false, "notes": "" },
+    "nauseated": { "active": false, "notes": "" },
+    "offKilter": { "active": false, "notes": "" },
+    "offTarget": { "active": false, "notes": "" },
+    "overburdened": { "active": false, "notes": "" },
+    "panicked": { "active": false, "notes": "" },
+    "paralyzed": { "active": false, "notes": "" },
+    "pinned": { "active": false, "notes": "" },
+    "prone": { "active": false, "notes": "" },
+    "shaken": { "active": false, "notes": "" },
+    "sickened": { "active": false, "notes": "" },
+    "stable": { "active": false, "notes": "" },
+    "staggered": { "active": false, "notes": "" },
+    "stunned": { "active": false, "notes": "" },
+    "unconscious": { "active": false, "notes": "" }
+  },
+  "negativeLevels": { "permanent": 0, "temporary": 0 },
+  "afflictions": [],
+  "abilityScores": {
+    "strength": {
+      "total": 10,
+      "base": null,
+      "override": null,
+      "increases": 0,
+      "pointBuy": 0,
+      "damage": 0,
+      "scoreBonuses": [],
+      "modifierBonuses": [],
+      "notes": ""
+    },
+    "dexterity": {
+      "total": 18,
+      "base": null,
+      "override": null,
+      "increases": 0,
+      "pointBuy": 5,
+      "damage": 0,
+      "scoreBonuses": [
+        {
+          "value": 1,
+          "type": "Theme",
+          "source": "Theme Knowledge (Ace Pilot)"
+        },
+        { "value": 2, "type": "Racial", "source": "Damai" }
+      ],
+      "modifierBonuses": [],
+      "notes": ""
+    },
+    "constitution": {
+      "total": 10,
+      "base": null,
+      "override": null,
+      "increases": 0,
+      "pointBuy": 0,
+      "damage": 0,
+      "scoreBonuses": [],
+      "modifierBonuses": [],
+      "notes": ""
+    },
+    "intelligence": {
+      "total": 14,
+      "base": null,
+      "override": null,
+      "increases": 0,
+      "pointBuy": 4,
+      "damage": 0,
+      "scoreBonuses": [],
+      "modifierBonuses": [],
+      "notes": ""
+    },
+    "wisdom": {
+      "total": 8,
+      "base": null,
+      "override": null,
+      "increases": 0,
+      "pointBuy": 0,
+      "damage": 0,
+      "scoreBonuses": [{ "value": -2, "type": "Racial", "source": "Damai" }],
+      "modifierBonuses": [],
+      "notes": ""
+    },
+    "charisma": {
+      "total": 13,
+      "base": null,
+      "override": null,
+      "increases": 0,
+      "pointBuy": 1,
+      "damage": 0,
+      "scoreBonuses": [{ "value": 2, "type": "Racial", "source": "Damai" }],
+      "modifierBonuses": [],
+      "notes": ""
+    },
+    "increases": [],
+    "method": "Point Buy"
+  },
+  "skills": [
+    {
+      "total": 8,
+      "override": null,
+      "skill": "Acrobatics",
+      "name": null,
+      "ranks": 1,
+      "bonuses": [],
+      "ability": "Dexterity",
+      "classSkill": true,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 5,
+      "override": null,
+      "skill": "Athletics",
+      "name": null,
+      "ranks": 2,
+      "bonuses": [],
+      "ability": "Strength",
+      "classSkill": true,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 1,
+      "override": null,
+      "skill": "Bluff",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Charisma",
+      "classSkill": false,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 2,
+      "override": null,
+      "skill": "Computers",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Intelligence",
+      "classSkill": false,
+      "trainedOnly": true,
+      "notes": ""
+    },
+    {
+      "total": 2,
+      "override": null,
+      "skill": "Culture",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Intelligence",
+      "classSkill": false,
+      "trainedOnly": true,
+      "notes": ""
+    },
+    {
+      "total": 1,
+      "override": null,
+      "skill": "Diplomacy",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Charisma",
+      "classSkill": false,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 1,
+      "override": null,
+      "skill": "Disguise",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Charisma",
+      "classSkill": false,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 2,
+      "override": null,
+      "skill": "Engineering",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Intelligence",
+      "classSkill": true,
+      "trainedOnly": true,
+      "notes": ""
+    },
+    {
+      "total": 5,
+      "override": null,
+      "skill": "Intimidate",
+      "name": null,
+      "ranks": 1,
+      "bonuses": [],
+      "ability": "Charisma",
+      "classSkill": true,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 2,
+      "override": null,
+      "skill": "Life Science",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Intelligence",
+      "classSkill": false,
+      "trainedOnly": true,
+      "notes": ""
+    },
+    {
+      "total": 2,
+      "override": null,
+      "skill": "Medicine",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Intelligence",
+      "classSkill": true,
+      "trainedOnly": true,
+      "notes": ""
+    },
+    {
+      "total": -1,
+      "override": null,
+      "skill": "Mysticism",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Wisdom",
+      "classSkill": false,
+      "trainedOnly": true,
+      "notes": ""
+    },
+    {
+      "total": 0,
+      "override": null,
+      "skill": "Perception",
+      "name": null,
+      "ranks": 1,
+      "bonuses": [],
+      "ability": "Wisdom",
+      "classSkill": false,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 2,
+      "override": null,
+      "skill": "Physical Science",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Intelligence",
+      "classSkill": false,
+      "trainedOnly": true,
+      "notes": ""
+    },
+    {
+      "total": 10,
+      "override": null,
+      "skill": "Piloting",
+      "name": null,
+      "ranks": 2,
+      "bonuses": [
+        { "value": 1, "type": "Misc", "source": "Theme Knowledge (Ace Pilot)" }
+      ],
+      "ability": "Dexterity",
+      "classSkill": true,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 0,
+      "override": null,
+      "skill": "Sense Motive",
+      "name": null,
+      "ranks": 1,
+      "bonuses": [],
+      "ability": "Wisdom",
+      "classSkill": false,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 4,
+      "override": null,
+      "skill": "Sleight of Hand",
+      "name": null,
+      "ranks": 0,
+      "bonuses": [],
+      "ability": "Dexterity",
+      "classSkill": false,
+      "trainedOnly": true,
+      "notes": ""
+    },
+    {
+      "total": 7,
+      "override": null,
+      "skill": "Stealth",
+      "name": null,
+      "ranks": 1,
+      "bonuses": [
+        { "value": 2, "type": "Racial", "source": "Survivor (Damai)" }
+      ],
+      "ability": "Dexterity",
+      "classSkill": false,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 6,
+      "override": null,
+      "skill": "Survival",
+      "name": null,
+      "ranks": 2,
+      "bonuses": [
+        { "value": 2, "type": "Racial", "source": "Survivor (Damai)" }
+      ],
+      "ability": "Wisdom",
+      "classSkill": true,
+      "trainedOnly": false,
+      "notes": ""
+    },
+    {
+      "total": 4,
+      "override": null,
+      "skill": "Profession",
+      "name": "Miner",
+      "ranks": 1,
+      "bonuses": [],
+      "ability": "Strength",
+      "classSkill": true,
+      "trainedOnly": true,
+      "notes": ""
+    }
+  ],
+  "vitals": {
+    "temporary": 0,
+    "stamina": {
+      "max": 14,
+      "override": null,
+      "damage": 0,
+      "bonuses": [
+        { "value": 0, "type": "Misc", "source": "Constitution" },
+        { "value": 14, "type": "Misc", "source": "Soldier" }
+      ],
+      "notes": ""
+    },
+    "health": {
+      "max": 16,
+      "override": null,
+      "damage": 0,
+      "bonuses": [
+        { "value": 2, "type": "Misc", "source": "Damai" },
+        { "value": 14, "type": "Misc", "source": "Soldier" }
+      ],
+      "notes": ""
+    },
+    "resolve": {
+      "max": 5,
+      "override": null,
+      "damage": 0,
+      "bonuses": [
+        { "value": 1, "type": "Misc", "source": "Level" },
+        {
+          "value": 4,
+          "type": "Misc",
+          "source": "Key Ability Score (Dexterity, Soldier)"
+        }
+      ],
+      "notes": ""
+    }
+  },
+  "speed": { "notes": "", "land": 30 },
+  "initiative": {
+    "total": 8,
+    "bonuses": [
+      { "value": 4, "type": "Misc", "source": "Improved Initiative" }
+    ],
+    "notes": ""
+  },
+  "armorClass": {
+    "eac": { "total": 14, "override": null, "bonuses": [], "notes": "" },
+    "kac": { "total": 14, "override": null, "bonuses": [], "notes": "" },
+    "acVsCombatManeuver": {
+      "total": 22,
+      "override": null,
+      "bonuses": [],
+      "notes": ""
+    }
+  },
+  "resistances": { "dr": {}, "er": {}, "sr": 0 },
+  "saves": {
+    "fortitude": {
+      "total": 3,
+      "override": null,
+      "base": 3,
+      "bonuses": [],
+      "ability": "Constitution",
+      "notes": ""
+    },
+    "reflex": {
+      "total": 4,
+      "override": null,
+      "base": 0,
+      "bonuses": [],
+      "ability": "Dexterity",
+      "notes": ""
+    },
+    "will": {
+      "total": 2,
+      "override": null,
+      "base": 3,
+      "bonuses": [],
+      "ability": "Wisdom",
+      "notes": ""
+    }
+  },
+  "attackBonuses": {
+    "bab": { "total": 2, "base": 2, "notes": "" },
+    "melee": {
+      "total": 2,
+      "override": null,
+      "ability": "Strength",
+      "bonuses": [],
+      "notes": ""
+    },
+    "ranged": {
+      "total": 6,
+      "override": null,
+      "ability": "Dexterity",
+      "bonuses": [],
+      "notes": ""
+    },
+    "thrown": {
+      "total": 2,
+      "override": null,
+      "ability": "Strength",
+      "bonuses": [],
+      "notes": ""
+    },
+    "otherBonuses": []
+  },
+  "race": {
+    "name": "Damai",
+    "description": "The people known throughout the galaxy as damais are survivors of a shattered planet who are at once hardy yet fragile, savvy yet foolish, prescient yet solipsistic. Their planet is ancient even on the scale of the vast universe, and yet for damais, modern history is merely 200 years old. Life on Daimalko, their dry, rocky planet in Near Space, transformed when an event called the Awakening wracked the land with earthquakes, evaporated the world’s oceans, and withered its greenery. Worse, the cataclysm awakened the terrible colossi at the heart of the people’s legends. Some of these monstrosities were kyokors, though many were other, equally horrific beasts, and all rose from their slumber beneath the seabed to destroy most of the planet’s inhabitants in short order.\n\nPrior to this disaster, the people of Daimalko were split between two advanced, warring societies: the holy Queendom of Ykarth, which claimed a divine mandate from the empyreal lord Duellona, and the psychic Confederation of Volkaria. But the Awakening drove most of the surviving damais underground, regardless of their allegiance, where they huddled in caverns they came to collectively call the Refuge. Nearly 150 years passed as the remaining damais and their descendants grappled with the cultural trauma of the Awakening. Originally a fragile people threaded with natural ribbons of psychic energy, empathic magic, or braids of both, damais adapted into the hardy and resourceful people they are today.\n\nAbout 50 years ago, a wise leader in one of the deepest and largest pockets of the Refuge resolved to reunite damais for good. Reirali Kokolu sought to build solidarity among the refugees despite the fact that the colossi still rampaged on the surface above. At great personal risk, she traversed the lightless caverns to make contact with other refugee settlements, inviting their leaders to travel with her until they’d contacted each surviving damai and formulated a plan to keep them connected to one another, even if only spiritually.\n\nNear the end of the leaders’ journey, they stumbled upon a curious cache of rune-scribed orbs. Though most of the leaders thought the objects mere baubles, useless remnants of the planet’s lost civilizations, Reirali Kokolu felt compelled to commune with the orbs. At first, touching them conveyed blasts of overwhelming emotion, fits of magical hubris, unnatural physical strength, and the darkest dread. However, after studying them at length—and convincing the other damai leaders to do the same—Kokolu found that the orbs, when bonded to a user, subtly conveyed vital information about the marauding colossi, such as their physical locations at any given time. Users of these orbs even seemed able to subtly influence the beasts’ behavior, though doing so caused tremendous stress, both mentally and physically. Communing with the orbs also fused the leaders to each other emotionally. As they learned to wield the orbs’ power, the leaders came to realize that with just a little concentration, they could inhabit each others’ minds and hearts.\n\nThese damai leaders became the first Guardians. Invigorated with the powers they’d unlocked, the Guardians returned to their respective settlements in the Refuge. Some died mysteriously along the way, and to this day it is unclear why, despite numerous attempts to discover the fates of these Guardians and any motive or meaning behind their deaths.\n\nHowever, the rest returned to their enclaves. While some used the orbs merely to fortify their settlements, terrified of the power of the colossi they felt through their artifacts, other Guardians began ushering small colonies of damais aboveground, carefully using their bonded orbs to shield their people from harm. Now, the underground settlements have approached a stability that is just shy of thriving, though the aboveground colonies still struggle, thanks both to their youth and to colossi attacks that their Guardians have failed to thwart. Daimalkan Guardians command great power, found both within them and through their orbs, but they are no less mortal than their kin, who age much as humans do. Thus, each Guardian carefully chooses and trains her successor over about a dozen years, using her wits, her wisdom, and her bonded orb, which she transfers to her charge when the time is right.\n\nThough some whisper that the magic flowing through the leaders is somehow tied to the force that sparked the Awakening, trust in the Guardians is nearly universal in damai settlements. Despite their different approaches to survival, the Guardians and everyday damais recognize how deeply tied to each other they are—or without the bonds of their people, damais would have nothing except the colossi that slaver for their end.\n\nThe average damai has gray skin, stands 6 feet tall, and weighs around 175 pounds.",
+    "size": "Medium",
+    "hitPoints": 2,
+    "selectedTraits": [
+      {
+        "name": "Size and Type",
+        "description": "Damais are Medium humanoids with the damai subtype.",
+        "selectedOptions": null
+      },
+      {
+        "name": "Low-Light Vision",
+        "description": "Damais have low-light vision.",
+        "selectedOptions": null
+      },
+      {
+        "name": "Scrappy",
+        "description": "Generations of living together in underground shelters and under the constant threat of enormous creatures have taught damais to work together against all odds. Once per day, as long as an ally is within 10 feet, a damai can reroll a failed attack roll or saving throw.",
+        "selectedOptions": null
+      },
+      {
+        "name": "Survivor",
+        "description": "Damais have ingrained survivalist senses and gain a +2 racial bonus to Stealth and Survival checks. This bonus increases to +3 when a damai is underground.",
+        "selectedOptions": null
+      }
+    ],
+    "abilityAdjustment": {
+      "name": "Standard",
+      "description": "Base Ability Adjustment",
+      "adjustment": ["+2 cha", "+2 dex", "-2 wis"]
+    },
+    "speed": { "land": 30 },
+    "reference": { "name": "Alien Archive 2", "shortName": "AA2", "page": 33 }
+  },
+  "theme": {
+    "name": "Ace Pilot",
+    "bonus": "+1 dex",
+    "description": "You are most comfortable at the controls of a vehicle, whether it’s a starship racing through the inky void of space or a ground vehicle zooming between trees, around boulders, and across dusty badlands. You might be a member of an elite military force, the recipient of intense courses of training. Alternatively, you might be a total amateur with innate skills that make you a much-admired hotshot.",
+    "benefits": [
+      {
+        "name": "Theme Knowledge",
+        "level": 1,
+        "description": "You are obsessed with starships and vehicles, and have committed to memory almost every related tidbit of knowledge you’ve ever come across. Reduce the DC of Culture checks to recall knowledge about starship and vehicle models and parts as well as famous hotshot pilots by 5. Piloting is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to your Piloting checks. In addition, you gain an ability adjustment of +1 to Dexterity at character creation.",
+        "selectedOptions": null
+      },
+      {
+        "name": "Lone Wolf",
+        "level": 6,
+        "description": "You know at least a little bit about handling every role on a starship, and you can sub in for certain tasks in a pinch. Whenever you need to attempt a skill check either during starship combat or to directly repair or otherwise maintain your starship, you can treat half your ranks in Piloting as your ranks in the appropriate skill for the check, if that would be better (since you effectively have ranks in the related skill, you are considered trained in the skill for the purposes of this check).",
+        "selectedOptions": null
+      },
+      {
+        "name": "Need For Speed",
+        "level": 12,
+        "description": "Speeding in a vehicle gives you a heady rush, and you can easily handle operating vehicles at high velocities that might send lesser pilots spinning out of control. Reduce any penalties to Piloting checks you make when on a vehicle by 1. When you take the double maneuver action during a vehicle chase, reduce the penalty for each action by 1. Whenever a Piloting check has a penalty for failing by 5 or more, you take that penalty only if you fail by 10 or more.",
+        "selectedOptions": null
+      },
+      {
+        "name": "Master Pilot",
+        "level": 18,
+        "description": "Your piloting accomplishments invigorate you, giving you renewed purpose and zeal. Up to twice per day, when you defeat a significant foe in starship combat as a pilot or succeed in a vehicle chase (meaning that you’ve either escaped a pursuer or caught or defeated your opponent), you recover 1 Resolve Point.",
+        "selectedOptions": null
+      }
+    ],
+    "reference": { "name": "Core Rulebook", "shortName": "CRB", "page": 29 }
+  },
+  "classes": [
+    {
+      "name": "Soldier",
+      "description": "Conflict is an inevitable result of life. On every world that harbors complex living organisms, creatures battle one another for dominance, resources, territory, or ideals. Whether you’ve taken up arms to protect others, win glory, exact revenge, or simply earn a living, you are the perfect embodiment of this truth. You’re an expert at combat of all types but tend to prefer heavy armor and weapons—the bigger, the better. You may be a career soldier, a fresh mercenary recruit, or a lone wolf who rejects authority, but whether rushing in for hand-to-hand combat or firing Tactical barrages, you’re a consummate warrior, never hesitating to put yourself in the line of fire to protect your friends.",
+      "baseHitPoints": 7,
+      "baseStaminaPoints": 7,
+      "baseSkillRanksPerLevel": 4,
+      "keyAbility": "Dexterity",
+      "levels": 2,
+      "spells": [],
+      "spellsUsed": [],
+      "spellsKnown": [0, 0, 0, 0, 0, 0, 0],
+      "spellsPerDay": [0, 0, 0, 0, 0, 0, 0],
+      "baseAttackBonus": 2,
+      "savingThrows": { "fortitude": 3, "reflex": 0, "will": 3 },
+      "classSkills": [
+        "Acrobatics",
+        "Athletics",
+        "Engineering",
+        "Intimidate",
+        "Medicine",
+        "Piloting",
+        "Profession",
+        "Survival"
+      ],
+      "features": [
+        {
+          "name": "Primary Fighting Style",
+          "description": "You have a preferred fighting style that represents the type of soldier you are. Each fighting style is composed of various style techniques that you learn as you gain experience. You must pick one fighting style upon taking your first soldier level, and once made, this choice cannot be changed.",
+          "options": [
+            {
+              "name": "Sharpshoot",
+              "description": "The sharpshoot fighting style enables you to excel at making accurate attacks, usually with ranged weapons at a long distance. You can ignore cover and other impediments to your shots, and your attacks are improved by your intense focus.",
+              "effects": [
+                {
+                  "name": "Sniper’s Aim",
+                  "description": "When you make a ranged attack against a target with cover, reduce the AC bonus from cover by 2. You can’t use sniper’s aim against an enemy with total cover."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Primary Fighting Technique",
+          "description": "At 1st level and every 4 levels thereafter, you gain a style technique unique to your primary fighting style.",
+          "options": []
+        },
+        {
+          "name": "Shield Proficiency",
+          "description": "Soldiers automatically gain proficiency with Shields at 1st level.",
+          "options": []
+        },
+        {
+          "name": "Heavy Weapon & Heavy Armor Proficiency",
+          "description": "Soldiers are proficient with heavy armor and heavy weapons.",
+          "options": []
+        },
+        {
+          "name": "Combat Feat",
+          "description": "At 2nd level and every 2 levels thereafter, you gain a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as combat feats. Whenever you gain a new bonus feat, you can also choose to replace one of the bonus feats you have already learned with a different bonus feat. The feat you replace can’t be one that was used as a prerequisite for another feat or other ability. You can change only one feat at any given level, and you must choose whether or not to swap the feat at the time you gain the new bonus feat.",
+          "options": []
+        }
+      ],
+      "archetype": null
+    }
+  ],
+  "freeArchetypes": [],
+  "feats": {
+    "acquiredFeats": [
+      {
+        "name": "Improved Initiative",
+        "description": "Your quick reflexes allow you to react rapidly to danger.",
+        "prerequisite": null,
+        "benefit": "You gain a +4 bonus to initiative checks.",
+        "benefitEffect": [
+          {
+            "bonus": {
+              "value": { "int": 4 },
+              "property": "character.initiative",
+              "bonusType": "misc"
+            }
+          }
+        ],
+        "normal": null,
+        "special": null,
+        "isCombatFeat": true,
+        "selectedOptions": null,
+        "reference": {
+          "name": "Core Rulebook",
+          "shortName": "CRB",
+          "page": 158
+        }
+      },
+      {
+        "name": "Heavy Armor Proficiency",
+        "description": "You know how to use heavy armor.",
+        "prerequisite": "Str 13, proficiency in light armor.",
+        "benefit": "You gain proficiency in heavy armor.",
+        "benefitEffect": [
+          {
+            "append": {
+              "value": { "armorType": "heavy" },
+              "property": "character.proficiency.armor"
+            }
+          }
+        ],
+        "normal": null,
+        "special": null,
+        "isCombatFeat": true,
+        "selectedOptions": null,
+        "reference": {
+          "name": "Core Rulebook",
+          "shortName": "CRB",
+          "page": 158
+        }
+      },
+      {
+        "name": "Heavy Weapon Proficiency",
+        "description": "You know how to use heavy weapons.",
+        "prerequisite": "Str 13, proficiency in small arms and longarms.",
+        "benefit": "You gain proficiency in heavy weapons.",
+        "benefitEffect": [
+          {
+            "append": {
+              "value": { "weaponType": "heavyWeapon" },
+              "property": "character.proficiency.weapon"
+            }
+          }
+        ],
+        "normal": null,
+        "special": null,
+        "isCombatFeat": true,
+        "selectedOptions": null,
+        "reference": {
+          "name": "Core Rulebook",
+          "shortName": "CRB",
+          "page": 158
+        }
+      },
+      {
+        "name": "Shield Proficiency",
+        "description": "You are trained in the use of shields.",
+        "prerequisite": null,
+        "benefit": "You gain proficiency with shields.",
+        "benefitEffect": [
+          {
+            "append": {
+              "value": { "armorType": "shield" },
+              "property": "character.proficiency.armor"
+            }
+          }
+        ],
+        "normal": null,
+        "special": "Mechanics with an exocortex, solarians, soldiers, and vanguards gain proficiency with shields automatically at 1st level.",
+        "isCombatFeat": true,
+        "selectedOptions": null,
+        "reference": {
+          "name": "Character Operations Manual",
+          "shortName": "COM",
+          "page": 118
+        }
+      },
+      {
+        "name": "Mobility",
+        "description": "You can easily move past dangerous foes.",
+        "prerequisite": "Dex 13",
+        "benefit": "You gain a +4 bonus to your Armor Class against attacks of opportunity that you provoke by leaving a threatened square.",
+        "benefitEffect": [
+          {
+            "append": {
+              "value": {
+                "string": "+4 bonus to your Armor Class against attacks of opportunity you provoke by leaving a threatened square."
+              },
+              "property": "character.situationSpecificBonuses"
+            }
+          }
+        ],
+        "normal": null,
+        "special": null,
+        "isCombatFeat": true,
+        "selectedOptions": null,
+        "reference": {
+          "name": "Core Rulebook",
+          "shortName": "CRB",
+          "page": 160
+        }
+      }
+    ],
+    "notes": ""
+  },
+  "inventory": [
+    {
+      "type": "Item",
+      "id": "1284051252",
+      "name": "Backpack, Consumer",
+      "description": "Backpacks have numerous pockets for storing items that you might need while adventuring and include industrial-strength straps for attaching additional items for easy access. Padded bands strap across the wearer’s chest and waist to evenly distribute the backpack’s weight, and it can carry roughly 2 bulk of items. When fitted properly and worn, the bulk of the backpack itself does not count against your bulk carried (though it does if you carry it in your hands), but the bulk of any items within it does. When wearing a properly fitted consumer backpack, you treat your Strength score as 1 higher for the purpose of determining your carrying capacity.",
+      "level": 1,
+      "price": 3,
+      "bulk": 1,
+      "isEquippable": true,
+      "isConsumable": false,
+      "hands": null,
+      "capacity": null,
+      "usage": null,
+      "itemType": "Personal",
+      "selectedOptions": null,
+      "reference": { "name": "Core Rulebook", "shortName": "CRB", "page": 230 },
+      "isEquipped": false,
+      "stashed": false,
+      "notes": "",
+      "quantity": 1
+    },
+    {
+      "type": "Weapon",
+      "id": "80925813",
+      "name": "Baton, Tactical",
+      "description": "A baton is a thin, solid metal shaft, usually with a textured rubber grip. A tactical baton can be used to inflict precise bludgeoning blows. An advanced baton, used by elite mercenary and security companies, often has an additional shaft, as well as a weighted end that can be powered to connect with substantially more force than a tactical baton.",
+      "level": 1,
+      "price": 90,
+      "bulk": 0.1,
+      "weaponType": "Basic Melee",
+      "handedness": 1,
+      "category": null,
+      "toHit": 6,
+      "damage": {
+        "dice": { "count": 1, "sides": 4 },
+        "damage": ["B"],
+        "alternateDamage": []
+      },
+      "damageBonus": 0,
+      "critical": null,
+      "special": [
+        { "name": "Analog", "additionalInfo": null },
+        { "name": "Operative", "additionalInfo": null },
+        { "name": "Thrown", "additionalInfo": "(20 ft.)" }
+      ],
+      "range": null,
+      "capacity": null,
+      "ammunitionType": null,
+      "ammunitionId": null,
+      "usage": null,
+      "accessoryIds": [],
+      "fusionIds": [],
+      "reference": { "name": "Core Rulebook", "shortName": "CRB", "page": 171 },
+      "isEquipped": false,
+      "stashed": false,
+      "proficient": true,
+      "specialization": false,
+      "notes": "",
+      "quantity": 1
+    },
+    {
+      "type": "Ammunition",
+      "id": "1200626519",
+      "name": "Battery, Standard",
+      "description": "Batteries charge powered weapons, but they can also be used to power an array of items, including powered armor and technological items. Batteries have a standardized size and weight, and items that take batteries all have a slot into which they fit, regardless of the item’s actual size. Weapons that use batteries list the highest-capacity battery they are capable of using as well as how many charges from the battery that each shot consumes.",
+      "level": 1,
+      "price": 60,
+      "bulk": 0,
+      "special": null,
+      "capacity": 20,
+      "ammunitionType": "Charge",
+      "reference": { "name": "Core Rulebook", "shortName": "CRB", "page": 179 },
+      "used": 0,
+      "stashed": false,
+      "notes": "",
+      "quantity": 4
+    },
+    {
+      "type": "Item",
+      "id": "836994888",
+      "name": "Canteen",
+      "description": "This hollow plastic or metal container can hold up to a half gallon of liquid.",
+      "level": 1,
+      "price": 1,
+      "bulk": 0.1,
+      "isEquippable": false,
+      "isConsumable": false,
+      "hands": null,
+      "capacity": null,
+      "usage": null,
+      "itemType": "Personal",
+      "selectedOptions": null,
+      "reference": { "name": "Armory", "shortName": "ARM", "page": 128 },
+      "isEquipped": false,
+      "stashed": false,
+      "notes": "",
+      "quantity": 1
+    },
+    {
+      "type": "Item",
+      "id": "1079726499",
+      "name": "Clothing, Athletic",
+      "description": "Clothing is mass produced throughout the Pact Worlds, and the residents of the system are never wanting for clothes. Clothing is often worn both under and over armor, and its benefits apply in nearly all situations. Clothing comes in several varieties based upon its intended purpose, as described below.\n\nAthletic wear is usually designed for a specific athletic activity, such as a sport or other physical pursuit. Wearing athletic clothing grants you a +1 circumstance bonus to Athletics checks to perform the activity that the clothes are designed for.",
+      "level": 1,
+      "price": 5,
+      "bulk": 0.1,
+      "isEquippable": true,
+      "isConsumable": false,
+      "hands": null,
+      "capacity": null,
+      "usage": null,
+      "itemType": "Personal",
+      "selectedOptions": null,
+      "reference": { "name": "Armory", "shortName": "ARM", "page": 128 },
+      "isEquipped": false,
+      "stashed": false,
+      "notes": "",
+      "quantity": 1
+    },
+    {
+      "type": "Item",
+      "id": "1220235411",
+      "name": "Hammock",
+      "description": "A hammock is a portable bed made of netting that is suspended between two opposite points so that you can sleep above the ground. Metallic disks at either end of the hammock are magnetized and coated with a reusable adhesive, allowing them to be stuck on nearly any surface. Attaching or detaching the disks is a move action.",
+      "level": 1,
+      "price": 20,
+      "bulk": 0.1,
+      "isEquippable": false,
+      "isConsumable": false,
+      "hands": null,
+      "capacity": null,
+      "usage": null,
+      "itemType": "Personal",
+      "selectedOptions": null,
+      "reference": { "name": "Armory", "shortName": "ARM", "page": 130 },
+      "isEquipped": false,
+      "stashed": false,
+      "notes": "",
+      "quantity": 1
+    },
+    {
+      "type": "Weapon",
+      "id": "1242953769",
+      "name": "Laser Rifle, Azimuth",
+      "description": "With its snub, squared barrel and internal reinforcements, a laser rifle is sturdy and dependable.",
+      "level": 1,
+      "price": 425,
+      "bulk": 1,
+      "weaponType": "Longarm",
+      "handedness": 2,
+      "category": "Laser",
+      "toHit": 6,
+      "damage": {
+        "dice": { "count": 1, "sides": 8 },
+        "damage": ["F"],
+        "alternateDamage": []
+      },
+      "damageBonus": 0,
+      "critical": { "name": "Burn", "additionalInfo": "1d6" },
+      "special": null,
+      "range": 120,
+      "capacity": 20,
+      "ammunitionType": "Charges",
+      "ammunitionId": null,
+      "usage": 1,
+      "accessoryIds": [],
+      "fusionIds": [],
+      "reference": { "name": "Core Rulebook", "shortName": "CRB", "page": 176 },
+      "isEquipped": false,
+      "stashed": false,
+      "proficient": true,
+      "specialization": false,
+      "notes": "",
+      "quantity": 1
+    },
+    {
+      "type": "Item",
+      "id": "262294335",
+      "name": "Map, Navigational",
+      "description": "Maps come in all shapes and sizes, and in varying degrees of quality as well. Most maps are digital files that can be downloaded onto a computer, but physical maps are also available. The prices listed on Table 1–31 are for both digital or physical maps. There are two broad categories of maps: survey and navigational. In addition, maps differ based on the size of the area they cover: local maps depict an area up to 1,000 square miles, regional maps depict an area up to 10,000 square miles, planetary maps depict an entire planet, and system-wide maps depict an entire star system.\n\nA map grants you a circumstance bonus to Survival checks perform the orienteering task or Piloting checks to navigate within the region detailed by the map; survey maps grant a +1 bonus, and navigational maps grant a +2 bonus. You gain the bonus for using a map only if you are traveling directly through the area depicted by the map. For instance, you gain no bonus from a planetary map when navigating on foot through the streets of a settlement, but you would gain the bonus when plotting a course to a different location on that planet.\n\nNavigational maps are based on detailed explorations. They are extremely accurate and have in-depth detail on the detailed region’s features.",
+      "level": 1,
+      "price": 80,
+      "bulk": 0,
+      "isEquippable": false,
+      "isConsumable": false,
+      "hands": null,
+      "capacity": null,
+      "usage": null,
+      "itemType": "Personal",
+      "selectedOptions": null,
+      "reference": { "name": "Armory", "shortName": "ARM", "page": 130 },
+      "isEquipped": false,
+      "stashed": false,
+      "notes": "",
+      "quantity": 1
+    },
+    {
+      "type": "Armor",
+      "id": "1480516421",
+      "isEquipped": false,
+      "stashed": false,
+      "upgradeIds": [],
+      "notes": "",
+      "quantity": 1,
+      "name": "Second Skin",
+      "description": "This flexible body stocking fits tightly against its wearer and can be worn under ordinary clothes. If a second skin matches the wearer's skin tone, this type of light armor can be difficult to detect. A second skin can also accept upgrades, making it popular for celebrities, diplomats, and other individuals who want protection without appearing to wear armor.",
+      "level": 1,
+      "price": 250,
+      "bulk": 0.1,
+      "eacBonus": 1,
+      "kacBonus": 2,
+      "maxDexBonus": 5,
+      "armorCheckPenalty": 0,
+      "speedAdjustment": 0,
+      "upgradeSlots": 1,
+      "armorType": "Light",
+      "reference": { "name": "Core Rulebook", "shortName": "CRB", "page": 197 }
+    },
+    {
+      "type": "Item",
+      "id": "332922496",
+      "name": "Serum of Healing, Mk 1",
+      "description": "This vial of medical serum quickly sets bones and repairs other physical damage. It restores 1d8 Hit Points when administered to a living creature. ",
+      "level": 1,
+      "price": 50,
+      "bulk": 0.1,
+      "isEquippable": false,
+      "isConsumable": true,
+      "hands": null,
+      "capacity": null,
+      "usage": null,
+      "itemType": "Magic",
+      "selectedOptions": null,
+      "reference": { "name": "Core Rulebook", "shortName": "CRB", "page": 222 },
+      "isEquipped": false,
+      "stashed": false,
+      "notes": "",
+      "quantity": 1
+    },
+    {
+      "type": "Item",
+      "id": "1113978890",
+      "name": "Starstone Compass",
+      "description": "This small, clockwork navigational device hones in on mystical signals emitted by the Starstone resting at the heart of Absalom Station, calculating the compass’s precise distance from and direction relative to the enigmatic font. While you are in the Pact Worlds system, this device lets you automatically know which direction Absalom Station is in relation to your current location, and it grants you a +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system.",
+      "level": 1,
+      "price": 3,
+      "bulk": 0.1,
+      "isEquippable": false,
+      "isConsumable": false,
+      "hands": null,
+      "capacity": null,
+      "usage": null,
+      "itemType": "Hybrid",
+      "selectedOptions": null,
+      "reference": { "name": "Core Rulebook", "shortName": "CRB", "page": 226 },
+      "isEquipped": false,
+      "stashed": false,
+      "notes": "",
+      "quantity": 1
+    },
+    {
+      "type": "Weapon",
+      "id": "Unarmed Strike",
+      "name": "Unarmed Strike",
+      "description": "An unarmed strike can be dealt with any limb or appendage. Unarmed strikes deal nonlethal damage, and the damage from an unarmed strike is considered weapon damage for the purposes of effects that give you a bonus to weapon damage rolls.",
+      "level": 2,
+      "price": 0,
+      "bulk": 0,
+      "weaponType": "Basic Melee",
+      "handedness": 1,
+      "category": null,
+      "toHit": 2,
+      "damage": {
+        "dice": { "count": 1, "sides": 3 },
+        "damage": ["B"],
+        "alternateDamage": null
+      },
+      "damageBonus": 0,
+      "critical": null,
+      "special": [
+        { "name": "Archaic", "additionalInfo": null },
+        { "name": "Nonlethal", "additionalInfo": null }
+      ],
+      "range": null,
+      "capacity": null,
+      "ammunitionType": null,
+      "ammunitionId": null,
+      "usage": null,
+      "accessoryIds": [],
+      "fusionIds": [],
+      "reference": { "name": "Core Rulebook", "shortName": "CRB", "page": 171 },
+      "isEquipped": true,
+      "stashed": false,
+      "proficient": true,
+      "specialization": false,
+      "notes": "",
+      "quantity": 1
+    }
+  ],
+  "bulk": {
+    "current": { "total": 2, "override": null, "notes": "" },
+    "encumbered": { "limit": 5 },
+    "overburdened": { "limit": 10, "override": null, "notes": "" }
+  },
+  "credits": 192,
+  "upbs": 0,
+  "senses": [
+    { "senseType": "Low-Light Vision", "additionalInfo": null, "range": 0 }
+  ],
+  "counters": [
+    { "id": "1569622135", "name": "Charges", "value": 8, "default": null }
+  ],
+  "additionalSpells": [],
+  "drone": null
+}
