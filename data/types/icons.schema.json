@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "paths": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "circle": {
+      "type": "object",
+      "properties": {
+        "cx": {
+          "type": "string"
+        },
+        "cy": {
+          "type": "string"
+        },
+        "r": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "required": ["name", "paths"]
+}
