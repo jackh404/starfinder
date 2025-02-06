@@ -1,4 +1,5 @@
 export type Assignment = {
+  id: number;
   title: string;
   text: string;
   sector: string;
