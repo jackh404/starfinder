@@ -10,6 +10,6 @@ export default async function AssignmentPage(
   }
   const assignment: Assignment = await fetchAssignment();
   return (
-    <h1 className="text-3xl font-bold underline">{assignment.title}</h1>
+    <h1 className="text-2xl font-bold underline">{assignment.title}</h1>
   )
 }

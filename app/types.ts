@@ -4,6 +4,7 @@ export type Assignment = {
   text: string;
   sector: string;
   duration: string;
+  requestor: string;
   funds: string;
   notes: string[];
 };

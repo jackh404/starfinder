@@ -4,8 +4,34 @@
       "title" : "Retrieve Device from Deep Space",
      "sector": "Near Pact Space",
       "duration": "20 to 40 days",
+      "requestor": "Starfinder Society",
       "funds": "Stipend: 12,000 credits",
       "text": "A Chamari-class probe, designated L-79-Phi, was in a deep elliptical orbit over Aucturn for 13 months before unexpectedly going dark `3` days ago. It appeared briefly in the sightline of the Tazuni orbital telescope's viewfinder, apparently having escaped Aucturn's orbit to travel into deep space. Other Society telescopes have since successfully spotted it, suggesting that it has not changed its trajectory again since. The Forum requests that the probe be retrieved for study and data recovery to understand what caused it to lose contact and veer so far off course.",
+      "notes": [
+        "Suitable for provisional members."
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Chart region 34ZH of the Diaspora",
+      "sector": "Pact Space",
+      "duration": "5 to 10 days",
+      "requestor": "Starfinder Society",
+      "funds": "Stipend: 5,000 credits",
+      "text":"Charting the multitude of bodies that make up the Diaspora and their orbits is an ongoing legacy project for the Society. The crew of any agent, member, or provisional member ship with long-range scanners is encouraged to take a turn in what has proven to be the task of several human lifespans. A full list of regions and their relative locations can be found [here].",
+      "notes": [
+        "Suitable for provisional members.",
+        "Please provide as much information as your scanners will allow as to the composition, mass, and shape of each body so that they may be identified and tracked individually."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Survey Asteroid 89A3H27",
+      "sector": "Pact Space",
+      "duration": "8 to 12 days",
+      "requestor": "Starfinder Society",
+      "funds": "Stipend: 7,000 Credits",
+      "text":"Asteroid 89A3H27, nicknamed \"Radnar,\" follows an unusual orbit outside the plane ecliptic that brings it through the system near Apostae's orbit twice every 78 years. It will make this transit in approximately `6` days. It is roughly 3km long, 1km wide, and has an estimated mass of 3.93⋅10^12kg. An astronomer from House Iverach generously shared data from Radnar's last transit, indicating that the unusual radar returns from the object may make it of interest to the Society. The Forum recommends an agent or member ship equipped with advanced sensors and scanning devices be dispatched to survey Radnar's surface and take samples to assess its scientific and/or material value. ",
       "notes": [
         "Suitable for provisional members."
       ]
