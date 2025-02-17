@@ -18,4 +18,34 @@ export default {
   plugins: [
     daisyui
   ],
+  daisyui: {
+    themes: [
+      "luxury",
+      "synthwave",
+      "night",
+      "dracula",
+      {
+        starfinder: {
+          
+"primary": "#1a4994",
+          
+"secondary": "#0891b2",
+          
+"accent": "#3283b8",
+          
+"neutral": "#41486b",
+          
+"base-100": "#0b0916",
+          
+"info": "#eefdff",
+          
+"success": "#00ff00",
+          
+"warning": "#fde047",
+          
+"error": "#ff0000",
+          },
+        },
+    ]
+  }
 } satisfies Config;
