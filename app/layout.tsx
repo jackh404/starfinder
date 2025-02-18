@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Chakra_Petch, Orbitron, Smooch_Sans, Righteous, Changa } from "next/font/google";
+import { Chakra_Petch, /*Orbitron, Smooch_Sans, Righteous, Changa*/ } from "next/font/google";
 import "./globals.css";
 
 const chakraPetch = Chakra_Petch({
@@ -9,27 +9,27 @@ const chakraPetch = Chakra_Petch({
   display: 'swap',
 });
 
-const orbitron = Orbitron({
-  variable: "--font-orbitron",
-  subsets: ["latin"],
-});
+// const orbitron = Orbitron({
+//   variable: "--font-orbitron",
+//   subsets: ["latin"],
+// });
 
-const smoochSans = Smooch_Sans({
-  variable: "--font-smooch-sans",
-  subsets: ["latin"],
-});
+// const smoochSans = Smooch_Sans({
+//   variable: "--font-smooch-sans",
+//   subsets: ["latin"],
+// });
 
-const righteous = Righteous({
-  weight: '400',
-  style: 'normal',
-  subsets: ['latin'],
-  display: 'swap',
-});
+// const righteous = Righteous({
+//   weight: '400',
+//   style: 'normal',
+//   subsets: ['latin'],
+//   display: 'swap',
+// });
 
-const changa = Changa({
-  variable: "--font-changa",
-  subsets: ["latin"],
-});
+// const changa = Changa({
+//   variable: "--font-changa",
+//   subsets: ["latin"],
+// });
 
 export const metadata: Metadata = {
   title: "Starfinder Society",
