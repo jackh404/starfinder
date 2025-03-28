@@ -46,7 +46,7 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="starfinder">
       <body
-        className={`${chakraPetch.className} antialiased min-h-screen bg-[url(/sariMobileBG.jpeg)] lg:bg-[url(/sariBG.jpeg)] bg-cover bg-fixed text-base-content flex justify-center`}
+        className={`${chakraPetch.className} antialiased min-h-screen bg-[url(/sariMobileBG.jpeg)] lg:bg-[url(/sariBG.jpeg)] bg-cover bg-fixed text-base-content flex justify-center pt-10 lg:pt-6 xl:pt-10 2xl:pt-32`}
       >
         <main className="lg:w-1/3 lg:mt-20">{children}</main>
       </body>
