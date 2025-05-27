@@ -1,4 +1,4 @@
-import assignments from "./assignments.json";
+import assignments from "./assignments/[slug]/assignments.json";
 import AssignmentCard from "./components/assignmentCard";
 export default function Home() {
   return (

@@ -8,3 +8,10 @@ export type Assignment = {
   funds: string;
   notes: string[];
 };
+export type Article = {
+    id: number;
+    title: string;
+    text: string;
+    image: string;
+    date: string;
+}
