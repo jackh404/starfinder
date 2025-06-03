@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
-import { Chakra_Petch, /*Orbitron, Smooch_Sans, Righteous, Changa*/ } from "next/font/google";
+import {
+  Chakra_Petch /*Orbitron, Smooch_Sans, Righteous, Changa*/,
+} from "next/font/google";
 import "./globals.css";
 
 const chakraPetch = Chakra_Petch({
-  weight: ['400', '700'],
-  style: ['normal', 'italic'],
-  subsets: ['latin'],
-  display: 'swap',
+  weight: ["400", "700"],
+  style: ["normal", "italic"],
+  subsets: ["latin"],
+  display: "swap",
 });
 
 // const orbitron = Orbitron({
@@ -44,11 +46,9 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="starfinder">
       <body
-        className={`${chakraPetch.className} antialiased min-h-screen bg-[url(/sariBG.jpeg)] bg-cover bg-fixed text-base-content flex justify-center`}
+        className={`${chakraPetch.className} antialiased min-h-screen bg-[url(/sariMobileBG.jpeg)] lg:bg-[url(/sariBG.jpeg)] bg-cover bg-fixed text-base-content flex justify-center`}
       >
-        <main className="w-1/3 mt-20">
-        {children}
-        </main>
+        <main className="lg:w-1/3 lg:mt-20">{children}</main>
       </body>
     </html>
   );
