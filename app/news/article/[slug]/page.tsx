@@ -18,9 +18,9 @@ export default async function ArticlePage({
       <Image src={article.image} alt={article.title} width={500} height={500}/>
       <h1 className="text-2xl font-bold underline">{article.title}</h1>
       <div className="m-2 p-2 bg-primary text-primary-content rounded-xl w-fit">
-        <p className="m-2 bg-accent rounded-xl p-2 text-accent-content">
-          {article.text}
-        </p>
+        <p className="m-2 bg-accent rounded-xl p-2 text-accent-content" 
+        dangerouslySetInnerHTML={{ __html: article.text }}
+        />
       </div>
     </div>
   );

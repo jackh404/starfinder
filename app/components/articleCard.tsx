@@ -20,7 +20,7 @@ export default function ArticleCard(prop: Article) {
         </figure>
         <div className="card-body">
           <h3 className="card-title text-center">{prop.title}</h3>
-          <p className="line-clamp-3">{prop.text}</p>
+          <p className="line-clamp-3" dangerouslySetInnerHTML={{ __html: prop.text }}/>
         </div>
       </div>
     </Link>
