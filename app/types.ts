@@ -7,6 +7,7 @@ export type Assignment = {
   requestor: string;
   funds: string;
   notes: string[];
+  show: boolean
 };
 export type Article = {
     id: number;
