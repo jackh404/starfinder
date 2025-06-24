@@ -1,5 +1,5 @@
 import { Assignment } from "../../types";
-import assignments from "../../assignments.json";
+import assignments from "./assignments.json";
 export default async function AssignmentPage(
     { params }: { params: Promise<{ slug: number }> }) 
     {
