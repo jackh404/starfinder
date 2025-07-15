@@ -14,7 +14,7 @@
     },
     {
       "id": 1,
-      "title": "Chart region 34ZH of the Diaspora",
+      "title": "Chart region 97FV of the Diaspora",
       "sector": "Pact Space",
       "duration": "5 to 10 days",
       "requestor": "Starfinder Society",
@@ -46,9 +46,9 @@
       "duration": "20 to 40 days",
       "requestor":"Starfinder Society",
       "funds":"Stipend: 15,000 credits",
-      "text": "Outpost Q97 (Nicknamed \"Thunderholm\") was established on the planet Erdh a decade ago to study the extreme storms as well as the ruins found on the planet's largest continent. The outpost is manned by a crew of 12, 4 of whom will be due to rotate off in 16 months. The station is in need of hydroponics supplies, drilling equipment, fresh water, and medical supplies, which can be picked up at the Lorespire Docks on Absalom Station. The outpost has collected various samples, solid and gaseous, that are to be returned to the Lorespire Complex after the delivery is made.",
+      "text": "Outpost Q97 (Nicknamed \"Thunderholm\") was established on the planet Erdh three years ago to study the extreme storms and unusual geography found there. The outpost is manned by a crew of 12, 4 of whom will be due to rotate off in 16 months. The station is in need of hydroponics supplies, drilling equipment, fresh water, and medical supplies, which can be picked up at the Lorespire Docks on Absalom Station. The outpost has collected various samples, solid and gaseous, that are to be returned to the Lorespire Complex after the delivery is made.",
       "notes": [
-        
+        "Forum Notes: Certain sectors of the Kelpie Nebula are rated as Areas of Concern by the Stewards for criminal activity. Starfinders venturing into this region of space are encouraged to exercise caution and travel armed."
       ],
       "show": true
     },
@@ -56,10 +56,10 @@
       "id": 4,
       "title": "Investigate Missing Freighter",
       "sector":"Pact Space",
-      "duration": "7 Days (initial)",
+      "duration": "10 to 14 days (initial)",
       "funds": "10,000 credits retainer, addl. pay negotiable",
       "requestor": "Apex Shipping",
-      "text": "Partner Organization (Apex Shipping) States: Greetings and salutations, esteemed members of the Starfinder Society. I am Dom Geyler, CEO of Apex Shipping, and I write to you today with a business concern that I believe may be of interest to a brave band of explorers and scientists. Some days ago, the Apex Yaotzin, one of our largest freighters, transited into the Drift near Apostae. The driftage, which came from an unknown plane, manifested unusually close to the ship, which went dark soon thereafter. The sensor readings and recordings that were transmitted beforehand are bizarre and contradictory, and have left us concerned for the safety of the crew. It is my hope that a crew of Starfinders might visit our headquarters in Cuvacara to review the details before retracing the Yaotzin's path and investigating its disappearance.",
+      "text": "Partner Organization (Apex Shipping) States: Greetings and salutations, esteemed members of the Starfinder Society. I am Dom Geyler, CEO of Apex Shipping, and I write to you today with a business concern that I believe may be of interest to a brave band of explorers and scientists. Some days ago, the Apex Yaotzin, one of our largest freighters, transited into the Drift in the Daimalko system. The driftage, which came from an unknown plane, manifested unusually close to the ship, which went dark soon thereafter. The sensor readings and recordings that were transmitted beforehand are bizarre and contradictory, and have left us concerned for the safety of the crew. It is my hope that a crew of Starfinders might visit our headquarters in Cuvacara to review the details before retracing the Yaotzin's path and investigating its disappearance.",
       "notes": [
         "Guidance Notes: Apex Shipping is a longtime sponsor of the Starfinder Society, and go out of their way to share scientific data gathered along their many routes into The Vast. Any members dealing with them are asked to afford them the respect of fellow scholars."
       ],
