@@ -16,3 +16,12 @@ export type Article = {
     image: string;
     date: string;
 }
+export type Archive = {
+    id: number;
+    title: string;
+    text: string;
+    image: string|null;
+    notes: string[];
+    show: boolean
+}
+    

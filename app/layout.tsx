@@ -50,8 +50,10 @@ export default function RootLayout({
       <body
         className={`${chakraPetch.className} antialiased min-h-screen bg-[url(/sariMobileBG.jpeg)] lg:bg-[url(/sariBG.jpeg)] bg-cover bg-fixed text-base-content flex flex-col items-center`}
       >
-      <Navbar />
-        <main className="pt-6 lg:pt-4 xl:pt-6 2xl:pt-8 lg:w-1/3 lg:mt-20">{children}</main>
+        <Navbar />
+        <main className="fixed pt-6 lg:pt-4 xl:pt-6 2xl:pt-8 lg:w-1/3 lg:mt-20">
+          <div className="h-[calc(100vh-8rem)] overflow-scroll">{children}</div>
+        </main>
       </body>
     </html>
   );
