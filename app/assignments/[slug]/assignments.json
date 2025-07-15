@@ -64,5 +64,18 @@
         "Guidance Notes: Apex Shipping is a longtime sponsor of the Starfinder Society, and go out of their way to share scientific data gathered along their many routes into The Vast. Any members dealing with them are asked to afford them the respect of fellow scholars."
       ],
       "show": true
+    },
+    {
+      "id": 5,
+      "title": "Reconnaissance at Station 9",
+     "sector": "Pact Space (Castrovel)",
+      "duration": "14-21 days",
+      "requestor": "Esowath Conservancy",
+      "funds": "Reward: 8,000 Credits",
+      "text": "Partner Organization (Esowath Conservancy) States: Hello. As you are no doubt aware, we at the Esowath Conservancy are charged with protecting Castrovel's wildlands, particularly the wildlife reserve covering the continent of Ukulam. To that end, we are asking for assistance from the Starfinder Society in gathering data on a relic of the ancient Formian wars which continues to cause destruction to this day. There is some sort of engineered living weapon causing damage to the flora and fauna around a site known as Station 9. Preliminary reports describe multiple amorphous entities roaming the area, sickening plant life and attacking animals. We need an armed team including at least one xenobiologist or biotech expert to assess the the area and the threat posed by the entities, and to gather any data that might be relevant to a mitigation plan. Interested parties should contact Dr. Morgan Kopalo in Qabarat.",
+      "notes": [
+        "Forum notes: Any Starfinders considering venturing into Ukulam must be prepared for a uniquely hostile environment, as detailed in the Starfinder Archives sections on the Castrovelian wilderness. On the other hand, the opportunity to 'skip the line' and gain access to that closely guarded treasure of the System is not to be dismissed lightly. The Conservancy's current waiting list for researchers to enter the continent is 31 months."
+      ],
+      "show": true
     }
   ]

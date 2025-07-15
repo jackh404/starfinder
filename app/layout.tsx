@@ -4,6 +4,8 @@ import {
 } from "next/font/google";
 import "./globals.css";
 
+import Navbar from "./components/navbar";
+
 const chakraPetch = Chakra_Petch({
   weight: ["400", "700"],
   style: ["normal", "italic"],
@@ -46,9 +48,10 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="starfinder">
       <body
-        className={`${chakraPetch.className} antialiased min-h-screen bg-[url(/sariMobileBG.jpeg)] lg:bg-[url(/sariBG.jpeg)] bg-cover bg-fixed text-base-content flex justify-center`}
+        className={`${chakraPetch.className} antialiased min-h-screen bg-[url(/sariMobileBG.jpeg)] lg:bg-[url(/sariBG.jpeg)] bg-cover bg-fixed text-base-content flex flex-col items-center`}
       >
-        <main className="lg:w-1/3 lg:mt-20">{children}</main>
+      <Navbar />
+        <main className="pt-6 lg:pt-4 xl:pt-6 2xl:pt-8 lg:w-1/3 lg:mt-20">{children}</main>
       </body>
     </html>
   );
