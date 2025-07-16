@@ -6,7 +6,8 @@
     "image": "/castrovel.png",
     "notes": [
       "See <a href=\"/archives/1\"><em><u>Ukulam</u></em></a> for more information.",
-      "See <a href=\"/archives/castrovelwildlife\"><em><u>Castrovellian Wildlife</u></em></a> for more information."
+      "See <a href=\"/archives/2\"><em><u>Sentient Races of Castrovel</u></em></a> for information.",
+      "See <a href=\"/archives/3\"><em><u>Castrovellian Wildlife</u></em></a> for more information."
     ],
     "show": true
   },
@@ -17,7 +18,44 @@
     "image": "/ukulam.png",
     "notes": [
       "See <a href=\"/archives/0\"><em><u>Castrovel</u></em></a> for information on the rest of the planet.",
-      "See <a href=\"/archives/castrovelwildlife\"><em><u>Castrovellian Wildlife</u></em></a> for more information."
+      "See <a href=\"/archives/3\"><em><u>Castrovellian Wildlife</u></em></a> for more information."
+    ],
+    "show": true
+  },
+  {
+    "id": 2,
+    "title": "Sentient Races of Castrovel",
+    "text": "Castrovel is the cradle of several major civilizations and an even larger number of sentient peoples. The most prominent are the lashuntas, elves, and formians, but there are also the khizar and raxilites, technically types of plant, and the grippli.",
+    "image": null,
+    "notes": [
+        "<a href=\"/archives/lashunta\"><em><u>Lashunta</u></em></a>",
+        "<a href=\"/archives/elf\"><em><u>Elf</u></em></a>",
+        "<a href=\"/archives/formian\"><em><u>Formian</u></em></a>",
+        "<a href=\"/archives/khizar\"><em><u>Khizar</u></em></a>",
+        "<a href=\"/archives/raxilite\"><em><u>Raxilite</u></em></a>",
+        "<a href=\"/archives/grippli\"><em><u>Grippli</u></em></a>",
+      "See <a href=\"/archives/0\"><em><u>Castrovel</u></em></a> for information on the rest of the planet."
+    ],
+    "show": true
+  },
+  {
+    "id":3,
+    "title": "Castrovellian Wildlife",
+    "text": "The wildlife of Castrovel is as diverse as it is dangerous, as wonderful as it is terrifying, and as unique as it is beautiful. Any Starfinders venturing into the planet's jungles, swamps, and forests should be prepared for both a fight for survival and a unique chance to encounter some of the most fascinating creatures in the system. What follows is a mere sampling of the planet's fauna.",
+    "image": null,
+    "notes": [
+        "<a href=\"/archives/harpyJasmine\"><em><u>Harpy Jasmine</u></em></a>",
+        "<a href=\"/archives/Kaukariki\"><em><u>Kaukariki</u></em></a>",
+        "<a href=\"/archives/Ksarik\"><em><u>Ksarik</u></em></a>",
+        "<a href=\"/archives/Mountain Eel\"><em><u>Mountain Eel</u></em></a>",
+        "<a href=\"/archives/Nyssholora\"><em><u>Nyssholora</u></em></a>",
+        "<a href=\"/archives/Renkroda\"><em><u>Renkroda</u></em></a>",
+        "<a href=\"/archives/Shotalashu\"><em><u>Shotalashu</u></em></a>",
+        "<a href=\"/archives/Sky Fisher\"><em><u>Sky Fisher</u></em></a>",
+        "<a href=\"/archives/Swamp Strider\"><em><u>Swamp Strider</u></em></a>",
+        "<a href=\"/archives/Vracinea\"><em><u>Vracinea</u></em></a>",
+        "<a href=\"/archives/yaruk\"><em><u>Yaruk</u></em></a>",
+      "See <a href=\"/archives/0\"><em><u>Castrovel</u></em></a> for information on the rest of the planet."
     ],
     "show": true
   }
