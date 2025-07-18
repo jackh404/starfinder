@@ -25,15 +25,13 @@
   {
     "id": 2,
     "title": "Sentient Races of Castrovel",
-    "text": "Castrovel is the cradle of several major civilizations and an even larger number of sentient peoples. The most prominent are the <a href=\"/archives/4\"><u>lashuntas</u></a>, elves, and formians, but there are also the khizar, technically a type of plant, and the grippli.",
+    "text": "Castrovel is the cradle of several major civilizations and an even larger number of sentient peoples. The most prominent are the lashunta, elves, formians, and khizar.",
     "image": null,
     "notes": [
         "<a href=\"/archives/lashunta\"><em><u>Lashunta</u></em></a>",
-        "<a href=\"/archives/elf\"><em><u>Elf</u></em></a>",
-        "<a href=\"/archives/formian\"><em><u>Formian</u></em></a>",
-        "<a href=\"/archives/khizar\"><em><u>Khizar</u></em></a>",
-        "<a href=\"/archives/raxilite\"><em><u>Raxilite</u></em></a>",
-        "<a href=\"/archives/grippli\"><em><u>Grippli</u></em></a>",
+        "<a href=\"/archives/5\"><em><u>Elf</u></em></a>",
+        "<a href=\"/archives/6\"><em><u>Formian</u></em></a>",
+        "<a href=\"/archives/7\"><em><u>Khizar</u></em></a>",
       "See <a href=\"/archives/0\"><em><u>Castrovel</u></em></a> for information on the rest of the planet."
     ],
     "show": true
@@ -74,7 +72,7 @@
     "id":5,
     "title":"Elf",
     "image":"/elf.png",
-    "text":"",
+    "text":"Elves are easily recognized by their pointed ears and pupils so large that their eyes seem to be all one color. Possessed of an inherent bond with the natural world, they tend to subtly take on the coloration of their surroundings over the course of many years and have a deep spiritual regard for nature.<br><br>They are best known for their enduring advanced civilization steeped in tradition and connection with nature. Their use of magic surpasses most other peoples, but the insularity of their post-gap culture allows for little understanding of their current state. It is speculated that their long lives made the gap especially difficult for them, leading to a culture that is both insular and reclusive. Those wishing to do bussiness with the elves of Sovyrian should be prepared to be relagated to islands off the coast, as outsiders are forbidden from setting foot on the continent. They may also note that most elves who will deal with them will do so masked, as dealing directly with outsiders is taboo.<br><br>In recent years, elvish fleets have raided the holdings of the Drow Houses on Apostae, earning them sanctions from the Pact Council.",
     "notes":[
         "See <a href=\"/archives/2\"><em><u>Sentient Races of Castrovel</u></em></a> for more information.",
         "See <a href=\"/archives/0\"><em><u>Castrovel</u></em></a> for information on the rest of the planet."
@@ -85,7 +83,18 @@
     "id":6,
     "title":"Formian",
     "image":"/formian.png",
-    "text":"",
+    "text":"Formians superficially resemble giant ants, albeit with distinct physiology. Each has a segmented body with six limbs, using the rear four for stability and locomotion. In contrast, their upper body and front limbs are oriented vertically in a way that's reminiscent of other humanoids. These front limbs end in several clawlike digits and grant formians fine motor control comparable to that of most humanoids. A heavy, chitinous carapace protects their entire bodies. This natural armor varies significantly in form and color, and formians with differing geographic and maternal ancestries often exhibit unique features. Formian carapaces most often occur in shades of black, brown, red, or yellow. Still, selective transparency and iridescence in some subspecies create complex patterns that most species perceive as green, blue, or even purple. Formians also sport spiky, chitinous growths on their carapaces, most often along the shoulders, elbows, and other joints to serve as defensive weapons. These protrusions' arrangements are as individual as fingerprints and can be used to identify individuals.<br><br>Although their two compound eyes are the most prominent, formians have five eyes. The three additional eyes are arranged in a triangle high on the forehead, functioning primarily to sense light and assist formians with navigation. While ancient formians typically had side-facing compound eyes that granted nearly 360-degree vision, modern formian's compound eyes face forward, providing exceptional depth perception and focus from hundreds of tiny lenses. Formians can also see specific colors on the ultraviolet spectrum, although this feature is primarily used in a social context.<br><br>Like their eyes, formian mouths have also evolved considerably over time. Their once-powerful insectile mandibles have developed into a more gracile form barely stronger than human jaws. Ringing the mouth are fine, fingerlike sensory appendages that help filter particles, maneuver food, and taste. Collectively, these features facilitate speech, albeit often with a percussive quality including clicking consonants that most species struggle to recreate. Coin-sized ultraviolet patches faintly glow to either side of a formian's mouth, and while these patches don't meaningfully provide illumination, they do help formians spot each other in low-light conditions while conveying mood and health.<br><br>Formian society revolves around a hierarchy of castes: queens, myrmarchs, taskmasters, warriors, and workers. This structure has led many other species across the Pact Worlds to describe them as authoritarian, but these descriptions are overly simplistic in the modern era. In practice, most formians enjoy a high level of self-determination in their pursuit of contributing meaningfully to their society. While queens, and to a lesser extent myrmarchs and taskmasters, possess abilities that can control or coerce warriors and workers, doing so is considered appropriate only in emergency situations. In addition, an overall focus on the quality of life in the colonies has led to a thriving collective.<br><br>As a species, formians tend to follow results, and it's widely acknowledged that individual contributions are more significant and efficient when workers are afforded autonomy and respect. Should a young formian intended for one role demonstrate unexpected aptitude for a different one, the hive often redirects them into a position where they'll best thrive and contribute. As workers age out of the labor force, they're often functionally reemployed as taskmasters due to their expertise in the most detailed aspects of production.<br><br>In general, formians tend not to enjoy idle entertainment on its own. Instead, a formian instinctively relaxes through productive hobbies and personal projects like building models or learning new skills. Especially over the past 30 years, since achieving peace on Castrovel, formians increasingly enjoy creating art as a meditative exploration of themselves.",
+    "notes":[
+        "See <a href=\"/archives/2\"><em><u>Sentient Races of Castrovel</u></em></a> for more information.",
+        "See <a href=\"/archives/0\"><em><u>Castrovel</u></em></a> for information on the rest of the planet."
+    ],
+    "show":false
+  },
+  {
+    "id":7,
+    "title":"Khizar",
+    "image":"/khizar.png",
+    "text":"Plantlike humanoids, the solemn khizars live in harmony with the natural environment, and many strive to protect the wilderness areas they inhabit. While this often brings them into conflict with other species and cultures, khizars are eager to learn about others’ ways in an effort to understand them.<br><br>Khizars are humanoids with two arms, two legs, vestigial vines on their backs, and greenish-brown skin of tough cellulose fiber. They have hydrostatic skeletal structures and their blood is thick and sap-like. Their limbs end in rootlike tendrils with some manipulative ability, but these are clumsier than a humanoid’s fingers. Khizars’ heads are actually complex seedpods; these tough, translucent membranes over woody latticeworks contain phosphorescent seed clusters that glow softly through the papery membrane, giving the species the nickname “lanternfolk.” The color of this glow shifts as khizars experience different emotions, and canny observers can tell khizars’ mood before they convey a word. Lacking mouths, khizars “taste” things by touching or handling them with their digits.<br><br>Originating in the wild expanses of the untamed continent Ukulam on Castrovel, khizars developed from carrionfeeding plants that used slow movement and crude empathic senses to find dying animals to feed on. They eventually grew to have full-fledged societies, though they hardly approach the population numbers of elves, formians, or lashuntas. Khizars have a strong sense of individuality, but they maintain no gender or cultural divisions based on appearance, caste, wealth, or other indicators. The only things ancient khizars competed over were food sources and having new and novel experiences, and they tended to solve competitions over the former by embracing the latter. Khizars tend to be very protective of the natural spaces where they live, sometimes resulting in violent clashes, and many have recently joined or allied with the Xenowardens in defense of certain worlds. Khizars are oblivious to many physical differences in other species, so they judge people by their actions rather than their appearances.",
     "notes":[
         "See <a href=\"/archives/2\"><em><u>Sentient Races of Castrovel</u></em></a> for more information.",
         "See <a href=\"/archives/0\"><em><u>Castrovel</u></em></a> for information on the rest of the planet."

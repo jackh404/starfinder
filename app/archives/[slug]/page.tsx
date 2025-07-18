@@ -23,7 +23,7 @@ export default async function ArchivePage({
         />
       </div>
       <ul className="m-2 list-disc"> {archive.notes.map((note) => (
-        <li key={note} dangerouslySetInnerHTML={{ __html: note }} />
+        <li key={note} dangerouslySetInnerHTML={{ __html: note }} className="text-lg"/>
       ))}</ul>
     </div>
   );
